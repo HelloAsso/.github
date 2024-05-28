@@ -30,6 +30,8 @@ Nous sommes ouverts aux contributions de la communauté ! Voici comment vous pou
 ## Restez connecté
 
 - **[Visitez notre site web](https://www.helloasso.com)**
+- **[Documentation API](https://dev.helloasso.com/)**
+
 - **[Suivez-nous sur Twitter](https://twitter.com/helloasso)**
 - **[Aimez-nous sur Facebook](https://www.facebook.com/helloasso)**
 - **[Admirez-nous sur Instagram](https://www.instagram.com/helloasso_agirensemble)**
