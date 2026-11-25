@@ -1,6 +1,6 @@
 # Bienvenue chez HelloAsso sur GitHub !
 
-![HelloAsso Logo](https://cdn.helloasso.com/images/header_public/logo-helloasso1.svg)
+![HelloAsso Logo](HelloAsso-Logo-Foliage.png)
 
 ## Présentation
 
